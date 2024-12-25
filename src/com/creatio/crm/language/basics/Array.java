@@ -8,7 +8,7 @@ public class Array {
 		empName[1]="Vijay";
 		empName[2]="Anil";
 		//empName[3]="Ram";
-		System.out.println(empName[0]);
+		System.out.println(empName[2]);
 		
 		
 
